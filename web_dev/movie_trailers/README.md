@@ -8,7 +8,7 @@ This project requires Python 2 and the following Python libraries installed:
 
 - Webbrowser
 
-If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 3.x installer.
+If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer.
 
 ## Code
 All the code is in the folder in which this README.md is.
