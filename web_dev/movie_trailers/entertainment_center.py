@@ -28,5 +28,6 @@ indiana_jones = media.Movie("Raiders of the Lost Ark",
 empire_strikes_back = media.Movie("The Empire Strikes Back", "The Empire ",
                                   "https://upload.wikimedia.org/wikipedia/en/3/3c/SW_-_Empire_Strikes_Back.jpg",
                                   "https://www.youtube.com/watch?v=JNwNXF9Y6kY")
+
 movies = [empire_strikes_back, indiana_jones, back_to_the_future]
 fresh_tomatoes.open_movies_page(movies)
