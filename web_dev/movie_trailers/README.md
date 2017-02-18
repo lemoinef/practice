@@ -11,7 +11,7 @@ This project requires Python 2 and the following Python libraries installed:
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 3.x installer.
 
 ## Code
-All the code is in the folder in which this READMME is.
+All the code is in the folder in which this README.md is.
 
 ## Run
 In a terminal or command window, navigate to the top-level project directory movie_trailers/ (that contains this README) and run the script.
