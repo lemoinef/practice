@@ -6,20 +6,20 @@ toy_story = media.Movie("Toy Story",
                         "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
                         "https://www.youtube.com/watch?v=vwyZH85NQC4")
 
-print(toy_story.storyline)
+# print(toy_story.storyline)
 
 avatar = media.Movie("Avatar",
                     "A marine on an alien planet",
                     "http://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Poster.jpg",
                     "http://www.youtube.com/watch?v=-9ceBgWV8io")
-print(avatar.storyline)
+# print(avatar.storyline)
 
 back_to_the_future = media.Movie("Back To The Future",
                                 "A man gets into a time machine and meets with his younger parents",
                                 "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg",
                                 "https://www.youtube.com/watch?v=qvsgGtivCgs")
 
-#back_to_the_future.show_trailer()
+# back_to_the_future.show_trailer()
 indiana_jones = media.Movie("Raiders of the Lost Ark",
                             "An explorer finds the ark",
                             "https://upload.wikimedia.org/wikipedia/en/4/4c/Raiders_of_the_Lost_Ark.jpg", 
