@@ -1,7 +1,7 @@
 # Project: Movie Trailers
 
 ## Context 
-This project is part of the Udacity full-stack nanodegree.
+This project is part of the Full-Stack Web Developper Nanodegree offered by Udacity.
 
 ## Install
 This project requires Python 2 and the following Python libraries installed:
@@ -15,7 +15,6 @@ All the code is in the folder in which this README.md is.
 
 ## Run
 In a terminal or command window, navigate to the top-level project directory movie_trailers/ (that contains this README) and run the script.
-
 
 ## Data
 The dataset used in this project is included in the folder and his provided by Udacity.
