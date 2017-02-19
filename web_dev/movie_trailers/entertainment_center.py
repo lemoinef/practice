@@ -15,17 +15,17 @@ avatar = media.Movie("Avatar",
 # print(avatar.storyline)
 
 back_to_the_future = media.Movie("Back To The Future",
-                                "A man gets into a time machine and meets with his younger parents",
+                                "Marty McFly issent back in time to 1955, meets his future parents in high school.",
                                 "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg",
                                 "https://www.youtube.com/watch?v=qvsgGtivCgs")
 
 # back_to_the_future.show_trailer()
 indiana_jones = media.Movie("Raiders of the Lost Ark",
                             "An explorer finds the ark",
-                            "https://upload.wikimedia.org/wikipedia/en/4/4c/Raiders_of_the_Lost_Ark.jpg", 
+                            "https://upload.wikimedia.org/wikipedia/en/4/4c/Raiders_of_the_Lost_Ark.jpg",
                             "https://www.youtube.com/watch?v=XkkzKHCx154")
 
-empire_strikes_back = media.Movie("The Empire Strikes Back", "The Empire ",
+empire_strikes_back = media.Movie("The Empire Strikes Back", "The Empire is in pursuit of Luke Skywalker",
                                   "https://upload.wikimedia.org/wikipedia/en/3/3c/SW_-_Empire_Strikes_Back.jpg",
                                   "https://www.youtube.com/watch?v=JNwNXF9Y6kY")
 
